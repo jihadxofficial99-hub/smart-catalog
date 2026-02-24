@@ -1,0 +1,5 @@
+{
+  "name": "A4 Smart Catalog Maker",
+  "description": "A smart A4 catalog creator with auto-collage, mobile-style cropping, background removal, and PDF export.",
+  "requestFramePermissions": []
+}
